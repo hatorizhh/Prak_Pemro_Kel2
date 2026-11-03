@@ -1,4 +1,4 @@
-# Project UAS Praktikum Pemrograman\n
+# Project UAS Praktikum Pemrograman
 ## Anggota Team:
 1. Zian Hafiz
 2. M. Farhan Alfarisi
